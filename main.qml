@@ -21,7 +21,7 @@ Window {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr(" Hello World ")
     // 1st row components
     Item{
         width: ind_play.width+t_play.width
